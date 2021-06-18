@@ -28,14 +28,6 @@
       "matches": [
         "https://www.instagram.com/explore/tags/*"
       ],
-      "css": [
-        "src/inject/inject.css"
-      ]
-    },
-    {
-      "matches": [
-        "https://www.google.com/*"
-      ],
       "js": [
         "src/inject/inject.js"
       ]
